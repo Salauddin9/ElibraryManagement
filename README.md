@@ -1,1 +1,1 @@
-# NewRepo
+Library Management System In ASP NET With Source Code which is an ASP.Net MVC based library management system that can be accessed throughout the campus. This system can be used to search for books, reserve books, and issue/return books from the library
